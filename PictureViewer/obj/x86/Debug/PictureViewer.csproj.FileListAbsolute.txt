@@ -1,0 +1,14 @@
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.exe
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.pdb
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\OpenCvSharp.dll
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\VideoInputSharp.dll
+C:\Users\root\documents\visual studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\root\Documents\Visual Studio 2010\Projects\PictureViewer\PictureViewer\obj\x86\Debug\PictureViewer.Form1.resources
+C:\Users\root\Documents\Visual Studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\root\Documents\Visual Studio 2010\Projects\PictureViewer\PictureViewer\bin\Debug\OpenCvSharp.Blob.dll
